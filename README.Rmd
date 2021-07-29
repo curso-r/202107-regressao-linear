@@ -14,8 +14,8 @@ knitr::opts_chunk$set(
 library(magrittr)
 
 main_repo <- "main-regressao-linear"
-turma <- "202103-regressao-linear"
-num_aula <- 1
+turma <- "202107-regressao-linear"
+num_aula <- 0
 ```
 
 ## Configuração: Criar um projeto do RStudio
@@ -24,7 +24,7 @@ Faça um projeto do RStudio para usar durante todo o curso. O código abaixo ir�
 
 ```{r, eval=FALSE, echo = TRUE}
 install.packages("usethis")
-usethis::create_project("regressaolinear202103")
+usethis::create_project("regressaolinear202107")
 ```
 
 ## Referências do curso
@@ -44,7 +44,7 @@ Fora do horário de aula ou monitoria:
 ```{r}
 knitr::kable(
   tibble::tibble(
-    slide = CursoRutils:::list_github_files(main_repo, "slides/", "html"),
+    slide = CursoRutils:::list_github_files(main_repo, "slides/", "\\.html"),
     link = paste0("https://curso-r.github.io/", main_repo, "/", slide)
   ) %>% 
     dplyr::filter(!stringr::str_detect(slide, "_files/"))
