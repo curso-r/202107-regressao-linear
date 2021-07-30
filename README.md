@@ -53,18 +53,35 @@ Referências extras comentadas (ou não) nas aulas.
 
 ### Programação em R
 
-| Aula | Descrição |
-|-----:|:----------|
+| Aula | Descrição                                                                                                                                                                                                                                                                     |
+|-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | [Ciência de Dados: Fundamentos e Aplicações](https://curso-r.github.io/main-regressao-linear/referencias/Ci%C3%AAncia%20de%20Dados.%20Fundamentos%20e%20Aplica%C3%A7%C3%B5es.%20Vers%C3%A3o%20parcial%20preliminar.%20maio%20Pedro%20A.%20Morettin%20Julio%20M.%20Singer.pdf) |
+|    1 | [Livro do Gilberto Paula](https://www.ime.usp.br/~giapaula/texto_2013.pdf)                                                                                                                                                                                                    |
+|    1 | [Tese sobre Regressão Linear da Sandra Rodrigues](https://ubibliorum.ubi.pt/bitstream/10400.6/1869/1/Tese%20Sandra%20Rodrigues.pdf)                                                                                                                                           |
+|    1 | [Aplicação de Regressão Linear Simples](https://www.ime.usp.br/~giapaula/slides_exemplo_cfoguete.pdf)                                                                                                                                                                         |
+|    1 | [Introduction to Econometrics with R](https://www.econometrics-with-r.org/6-5-the-distribution-of-the-ols-estimators-in-multiple-regression.html)                                                                                                                             |
 
 ### Regressão Linear - Inferência
 
-| Aula | Descrição |
-|-----:|:----------|
+| Aula | Descrição                                                                                                                                                                                                                                                                     |
+|-----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | [Ciência de Dados: Fundamentos e Aplicações](https://curso-r.github.io/main-regressao-linear/referencias/Ci%C3%AAncia%20de%20Dados.%20Fundamentos%20e%20Aplica%C3%A7%C3%B5es.%20Vers%C3%A3o%20parcial%20preliminar.%20maio%20Pedro%20A.%20Morettin%20Julio%20M.%20Singer.pdf) |
+|    1 | [Livro do Gilberto Paula](https://www.ime.usp.br/~giapaula/texto_2013.pdf)                                                                                                                                                                                                    |
+|    1 | [Tese sobre Regressão Linear da Sandra Rodrigues](https://ubibliorum.ubi.pt/bitstream/10400.6/1869/1/Tese%20Sandra%20Rodrigues.pdf)                                                                                                                                           |
+|    1 | [Aplicação de Regressão Linear Simples](https://www.ime.usp.br/~giapaula/slides_exemplo_cfoguete.pdf)                                                                                                                                                                         |
+|    1 | [Introduction to Econometrics with R](https://www.econometrics-with-r.org/6-5-the-distribution-of-the-ols-estimators-in-multiple-regression.html)                                                                                                                             |
 
 ### Regressão Linear - Predição
 
-| Aula | Descrição |
-|-----:|:----------|
+| Aula | Descrição                                                                                                                             |
+|-----:|:--------------------------------------------------------------------------------------------------------------------------------------|
+|    1 | [Aprendizagem de Máquinas: Uma Abordagem Estatística (Rafael Izbicki e Thiago Mendonça, 2020](http://www.rizbicki.ufscar.br/AME.pdf)  |
+|    1 | [Introduction to Statistical Learning (Hastie, et al](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) |
+|    1 | [Elements of Statistical Learning (Hastie, et al)](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)                                 |
+|    1 | [Computer Age Statistical Inference (Hastie, Efron](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)                         |
+|    1 | [Tidymodels (Kuhn, et al)](https://www.tidymodels.org/)                                                                               |
+|    1 | [Feature Engineering and Selection: A Practical Approach for Predictive Models (Kuhn, Kjell)](http://www.feat.engineering/)           |
+|    1 | [Kaggle](https://www.kaggle.com/)                                                                                                     |
 
 ## Redes sociais da Curso-R
 

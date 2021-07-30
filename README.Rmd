@@ -15,7 +15,7 @@ library(magrittr)
 
 main_repo <- "main-regressao-linear"
 turma <- "202107-regressao-linear"
-num_aula <- 0
+num_aula <- 1
 ```
 
 ## Configuração: Criar um projeto do RStudio
@@ -88,7 +88,7 @@ Referências extras comentadas (ou não) nas aulas.
 
 ```{r}
 readxl::read_excel("referencias_extras.xlsx") %>%
-  dplyr::filter(aula <= num_aula, tema == "Programação em R") %>% 
+  dplyr::filter(aula <= num_aula, tema == "Regressão Linear - Inferência") %>% 
   dplyr::mutate(link = glue::glue("[{desc}]({url})")) %>%
   dplyr::select(-desc, -url, -tema) %>%
   dplyr::arrange(num_aula) %>% 
